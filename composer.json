@@ -1,0 +1,22 @@
+{
+    "name": "namespaces/packagist",
+    "description": "Namespaces Packagist.",
+    "keywords": [
+        "namespaces packagist"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jundayw",
+            "email": "jundayw@126.com"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
